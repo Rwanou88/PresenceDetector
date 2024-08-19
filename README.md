@@ -1,2 +1,2 @@
-# PresenceDetector
+# Presence Detector
 Presence Detector
