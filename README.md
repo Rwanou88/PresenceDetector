@@ -32,8 +32,3 @@ LD2410
 
 ## Installation - FR
 Suivez les instructions indiquées par [Émy](https://oniricorpe.eu/log/tech/2023-11-15_capteurs-millimetriques-esphome/).
-
-## Fonctionnalités - Features
-
-### *  *
-
